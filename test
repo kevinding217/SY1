@@ -1,1 +1,4 @@
-# SY1
+public stait void main ( String [] args ){
+  System.out.println("666"+"操你妈");
+}
+
