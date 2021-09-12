@@ -1,6 +1,6 @@
 public stait void main ( String [] args ){
 
-  System.out.println("666"+"丁亮"+"李鸿力"+"李文杰")
+  System.out.println("666"+"丁亮"+"李鸿力"+"李文杰"+"李建新")
   
 }
 
